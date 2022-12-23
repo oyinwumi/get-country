@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App{
+  align-items: center;
+  background-color: rgb(7, 7, 42);
+  color:white;
+  padding: 2rem;
+  text-align: justify;
+}
+form{
+  margin: 2rem 0;
+}
+.country-list{
+  padding-bottom: 15px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+form label{
+  padding-right: 10px;
+  font-size: 20px;
+}
+.country-name{
+  color: white;
+  padding-top: 2rem;
+  margin-bottom: 1rem;
+}
+img{
+  width: 100px;
+  height: auto;
+}
